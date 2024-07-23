@@ -1,5 +1,5 @@
 # FLIP: Fine-grained Alignment between ID-based Models and Pretrained Language Models for CTR Prediction
-This is the pytorch implementation of ***FLIP*** proposed in the paper [FLIP: Fine-grained Alignment between ID-based Models and Pretrained Language Models for CTR Prediction](https://arxiv.org/abs/2310.19453). (Recsys'24)
+This is the pytorch implementation of ***FLIP*** proposed in the paper [FLIP: Fine-grained Alignment between ID-based Models and Pretrained Language Models for CTR Prediction](https://arxiv.org/abs/2310.19453). (RecSys'24)
 
 ## Requirements
 ~~~python
